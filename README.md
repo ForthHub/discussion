@@ -8,7 +8,7 @@ you'd like to display the organization icon in your profile, you can
 switch from "Private" to "Public" here:
 https://github.com/orgs/ForthHub/people
 
-There is a list or Forth libraries and tools here:
+There is a list of Forth libraries and tools here:
 https://github.com/orgs/ForthHub/teams/libraries/repositories
 
 And a more complete list of Forth repositories here:
