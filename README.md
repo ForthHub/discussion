@@ -13,3 +13,8 @@ https://github.com/orgs/ForthHub/teams/libraries/repositories
 
 And a more complete list of Forth repositories here:
 https://github.com/stars/ForthStar
+
+Some Forth repositories that have no other place on GitHub are in the
+[Archive](https://github.com/orgs/ForthHub/teams/archive/repositories) section.
+However, the ForthHub group is **not** for making forks of repositories
+that already exist on GitHub.
