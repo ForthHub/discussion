@@ -1,7 +1,7 @@
 Welcome to this group for Forth enthusiasts.
 
 Please open an issue to start a new discussion.  Or stop watching this
-repository to unsubscribe.
+repository to unsubscribe. As an alternative way, the new [Discussions](https://github.com/ForthHub/discussion/discussions) tool can be used for discussions (see [manual](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions)).
 
 By default, your ForthHub membership will be hidden from view. If
 you'd like to display the organization icon in your profile, you can
